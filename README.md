@@ -10,26 +10,6 @@ MillionaireApp is a SwiftUI-based iOS application that brings the excitement of 
 - **Navigation**: Smooth navigation to the question screen upon user interaction.
 - **Tappable Background**: The background is fully tappable, leading users to the question screen when tapped.
 
-## Screenshots
-
-Below are some screenshots of the app in action:
-
-![Screenshot 1](ss2.png)
-![Screenshot 2](ss5.png)
-![Screenshot 3](ss17.png)
-![Screenshot 4](ss3.png)
-![Screenshot 5](ss10.png)
-![Screenshot 6](ss15.png)
-![Screenshot 7](ss11.png)
-![Screenshot 8](ss6.png)
-![Screenshot 9](ss12.png)
-![Screenshot 10](ss16.png)
-![Screenshot 11](ss8.png)
-![Screenshot 12](ss9.png)
-![Screenshot 13](ss13.png)
-![Screenshot 14](ss7.png)
-![Screenshot 15](ss1.png)
-
 ## Requirements
 
 - iOS 15.0+
